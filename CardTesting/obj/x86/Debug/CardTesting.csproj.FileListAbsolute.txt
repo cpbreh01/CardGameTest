@@ -1,0 +1,6 @@
+C:\Users\Optimus\Documents\Visual Studio 2010\Projects\CardTesting\CardTesting\obj\x86\Debug\CardTesting.Properties.Resources.resources
+C:\Users\Optimus\Documents\Visual Studio 2010\Projects\CardTesting\CardTesting\obj\x86\Debug\CardTesting.csproj.GenerateResource.Cache
+C:\Users\Optimus\Documents\Visual Studio 2010\Projects\CardTesting\CardTesting\bin\Debug\CardTesting.exe
+C:\Users\Optimus\Documents\Visual Studio 2010\Projects\CardTesting\CardTesting\bin\Debug\CardTesting.pdb
+C:\Users\Optimus\Documents\Visual Studio 2010\Projects\CardTesting\CardTesting\obj\x86\Debug\CardTesting.exe
+C:\Users\Optimus\Documents\Visual Studio 2010\Projects\CardTesting\CardTesting\obj\x86\Debug\CardTesting.pdb
